@@ -1,0 +1,4 @@
+path,storage_type
+C:\VMs,SSD
+D:\VMs,SSD
+E:\VMs,HDD
